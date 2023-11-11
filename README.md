@@ -1,8 +1,7 @@
 # Project 
 Greenkart is an e-commerce platform for Gardening Enthusiasts. The goal of this website is to provide this niche market a platform to buy and sell gardening products such as seeds, saplings, tools (like shovel), etc.
 
-* *Date Created*: 07 Aug 2020
-* *Last Modification Date*: 07 AUG 2020
+
 
 Deployed Link: https://greenkart-csci5709.herokuapp.com/
 
